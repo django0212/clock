@@ -1,0 +1,41 @@
+.vl {
+	width: 1px;
+	background-color: black;
+	height: 100%;
+	float: inherit;
+	border: 1px ridge black;
+	border-radius: 5px;
+	height: 40px;
+	transform-origin: bottom;
+	position: absolute;
+}
+
+.vl2 {
+	width: 3px;
+	background-color: silver;
+	height: 100%;
+	float: inherit;
+	border: 2px ridge black;
+	border-radius: 2px;
+	height: 40px;
+	transform-origin: bottom;
+	position: absolute;
+}
+
+.vl3 {
+	width: 4px;
+	background-color: brown;
+	height: 100%;
+	float: left;
+	border: 1px ridge black;
+	border-radius: 2px;
+	height: 40px;
+	transform-origin: bottom;
+	position: relative;
+}
+
+.center {
+	margin: auto;
+	width: 50%;
+
+}
